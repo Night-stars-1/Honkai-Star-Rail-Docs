@@ -1,3 +1,12 @@
+<!--
+ * @Author: Night-stars-1 nujj1042633805@gmail.com
+ * @Date: 2023-05-23 22:27:33
+ * @LastEditors: Night-stars-1 nujj1042633805@gmail.com
+ * @LastEditTime: 2023-06-10 23:11:56
+ * @Description: 
+ * 
+ * Copyright (c) 2023 by Night-stars-1, All Rights Reserved. 
+-->
 # 配置
 ## 配置相关
  * 我希望你能把必看的看完，没看完就问，不给予回答，请换个程序用，别找我
@@ -20,6 +29,7 @@
 | presets | 列表 | 队伍预设 |
 | map_version | 数值 | 未知 |
 | proxies | 字符串 | 网络代理 |
+| language | 字符串 | 语言 |
 
 ## 完整配置参考
 ```json
@@ -45,6 +55,8 @@
         ]
     ],
     "map_version": "0",
-    "proxies": "socks5://your_socks5_proxy"
+    "proxies": "socks5://your_socks5_proxy",
+    "language": "zh_CN"
 }
 ```
+**PS: 参考配置请不要直接复制使用，程序会自动生成，这只是给一个模板**
