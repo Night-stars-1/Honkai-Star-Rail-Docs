@@ -62,6 +62,12 @@
 
 ---
 
+**Q**： PermissionError: [Errno 13] Permission denied: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+
+**A**： 你安装了微软商店的Python，请严格安装[教程](/guide/)的步骤安装
+
+---
+
 **Q**： 口令:5668
 
 **A**： 口令:5668

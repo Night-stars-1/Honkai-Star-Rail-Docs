@@ -1,4 +1,13 @@
-<template><div><h1 id="配置" tabindex="-1"><a class="header-anchor" href="#配置" aria-hidden="true">#</a> 配置</h1>
+<template><div><!--
+ * @Author: Night-stars-1 nujj1042633805@gmail.com
+ * @Date: 2023-05-23 22:27:33
+ * @LastEditors: Night-stars-1 nujj1042633805@gmail.com
+ * @LastEditTime: 2023-06-10 23:11:56
+ * @Description: 
+ * 
+ * Copyright (c) 2023 by Night-stars-1, All Rights Reserved. 
+-->
+<h1 id="配置" tabindex="-1"><a class="header-anchor" href="#配置" aria-hidden="true">#</a> 配置</h1>
 <h2 id="配置相关" tabindex="-1"><a class="header-anchor" href="#配置相关" aria-hidden="true">#</a> 配置相关</h2>
 <ul>
 <li>我希望你能把必看的看完，没看完就问，不给予回答，请换个程序用，别找我</li>
@@ -88,6 +97,11 @@
 <td style="text-align:center">字符串</td>
 <td style="text-align:right">网络代理</td>
 </tr>
+<tr>
+<td>language</td>
+<td style="text-align:center">字符串</td>
+<td style="text-align:right">语言</td>
+</tr>
 </tbody>
 </table>
 <h2 id="完整配置参考" tabindex="-1"><a class="header-anchor" href="#完整配置参考" aria-hidden="true">#</a> 完整配置参考</h2>
@@ -113,8 +127,10 @@
         <span class="token punctuation">]</span>
     <span class="token punctuation">]</span><span class="token punctuation">,</span>
     <span class="token property">"map_version"</span><span class="token operator">:</span> <span class="token string">"0"</span><span class="token punctuation">,</span>
-    <span class="token property">"proxies"</span><span class="token operator">:</span> <span class="token string">"socks5://your_socks5_proxy"</span>
+    <span class="token property">"proxies"</span><span class="token operator">:</span> <span class="token string">"socks5://your_socks5_proxy"</span><span class="token punctuation">,</span>
+    <span class="token property">"language"</span><span class="token operator">:</span> <span class="token string">"zh_CN"</span>
 <span class="token punctuation">}</span>
-</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></div></template>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p><strong>PS: 参考配置请不要直接复制使用，程序会自动生成，这只是给一个模板</strong></p>
+</div></template>
 
 

@@ -14,6 +14,9 @@
 <p><strong>Q</strong>： 第一次运行项目是选择错误，我该怎么办？</p>
 <p><strong>A</strong>： 更改配置文件的对应项，详细见<RouterLink to="/config/">配置详细</RouterLink></p>
 <hr>
+<p><strong>Q</strong>： 游戏有没有分辨率要求</p>
+<p><strong>A</strong>： 有的，PC端要求<code v-pre>1920*1080</code>，模拟器要求<code v-pre>1080*720</code></p>
+<hr>
 <p><strong>Q</strong>： ModuleNotFoundError: No module named 'xxxx'</p>
 <p><strong>A</strong>： 在项目主目录运行<code v-pre>pip install -r requirements.txt</code></p>
 <hr>
@@ -31,6 +34,9 @@
 <hr>
 <p><strong>Q</strong>： 你无法运行<strong>星穹铁道小助手</strong></p>
 <p><strong>A</strong>： 下载<a href="https://qm.qq.com/cgi-bin/qm/qr?k=xdCO46fHlVcY7D2L7elXzqcxL3nyTGnW&amp;jump_from=webapi&amp;authKey=uWZooQ2szv+nG/re7luCKn8LW1KibSb0vvi0FycA45Mglm5AGM1GP2iJ+SiWmDwg" target="_blank" rel="noopener noreferrer">QQ群<ExternalLinkIcon/></a>里的<code v-pre>依赖一键傻瓜式安装.bat</code></p>
+<hr>
+<p><strong>Q</strong>： PermissionError: [Errno 13] Permission denied: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx'</p>
+<p><strong>A</strong>： 你安装了微软商店的Python，请严格安装<RouterLink to="/guide/">教程</RouterLink>的步骤安装</p>
 <hr>
 <p><strong>Q</strong>： 口令:5668</p>
 <p><strong>A</strong>： 口令:5668</p>

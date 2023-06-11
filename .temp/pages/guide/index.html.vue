@@ -2,12 +2,16 @@
  * @Author: Night-stars-1 nujj1042633805@gmail.com
  * @Date: 2023-05-23 15:45:31
  * @LastEditors: Night-stars-1 nujj1042633805@gmail.com
- * @LastEditTime: 2023-05-24 11:26:29
+ * @LastEditTime: 2023-06-10 20:45:37
  * @Description: 
  * 
  * Copyright (c) 2023 by Night-stars-1, All Rights Reserved. 
 -->
 <h1 id="指南" tabindex="-1"><a class="header-anchor" href="#指南" aria-hidden="true">#</a> 指南</h1>
+<h2 id="友情提示" tabindex="-1"><a class="header-anchor" href="#友情提示" aria-hidden="true">#</a> 友情提示</h2>
+<ul>
+<li>教程已经写了很多了，请认真看完这个页面的安装教程，他并没有多少字，严格安装步骤操作不会出错，如果你没有认真看完麻烦不要进群询问，这是浪费别人时间</li>
+</ul>
 <h2 id="重要提示" tabindex="-1"><a class="header-anchor" href="#重要提示" aria-hidden="true">#</a> 重要提示</h2>
 <div class="custom-container danger"><p class="custom-container-title">警告</p>
 <p>本软件是一个外部工具旨在自动化崩坏星轨的游戏玩法。它被设计成仅通过现有用户界面与游戏交互,并遵守相关法律法规。该软件包旨在提供简化和用户通过功能与游戏交互,并且它不打算以任何方式破坏游戏平衡或提供任何不公平的优势。该软件包不会以任何方式修改任何游戏文件或游戏代码。</p>
@@ -42,6 +46,12 @@
 <li><code v-pre>start.exe</code>为快速启动脚本</li>
 </ul>
 <p><strong>ps: 所有文件请放在项目根目录执行</strong></p>
+<h2 id="适合小白的启动方式" tabindex="-1"><a class="header-anchor" href="#适合小白的启动方式" aria-hidden="true">#</a> 适合小白的启动方式</h2>
+<ul>
+<li><strong>我们不推荐这种启动方式，如果你按照上面的教程实在无法启动再使用</strong></li>
+<li>下载<a href="https://qm.qq.com/cgi-bin/qm/qr?k=xdCO46fHlVcY7D2L7elXzqcxL3nyTGnW&amp;jump_from=webapi&amp;authKey=uWZooQ2szv+nG/re7luCKn8LW1KibSb0vvi0FycA45Mglm5AGM1GP2iJ+SiWmDwg" target="_blank" rel="noopener noreferrer">QQ群<ExternalLinkIcon/></a>的<code v-pre>星穹铁道小助手.exe</code>然后双击运行，他在<code v-pre>整合包</code>文件夹中</li>
+<li><strong>ps: 第一次启动可能会报错，请重新启动</strong></li>
+</ul>
 </div></template>
 
 
