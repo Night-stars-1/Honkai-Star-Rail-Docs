@@ -30,6 +30,7 @@
 | map_version | 数值 | 未知 |
 | proxies | 字符串 | 网络代理 |
 | language | 字符串 | 语言 |
+| move_excursion | 数值 | 移动偏移 |
 
 ## 完整配置参考
 ```json
@@ -56,7 +57,8 @@
     ],
     "map_version": "0",
     "proxies": "socks5://your_socks5_proxy",
-    "language": "zh_CN"
+    "language": "zh_CN",
+    "move_excursion": 0
 }
 ```
 **PS: 参考配置请不要直接复制使用，程序会自动生成，这只是给一个模板**
