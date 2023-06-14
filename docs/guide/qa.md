@@ -2,7 +2,7 @@
  * @Author: Night-stars-1 nujj1042633805@gmail.com
  * @Date: 2023-05-24 11:46:14
  * @LastEditors: Night-stars-1 nujj1042633805@gmail.com
- * @LastEditTime: 2023-06-12 00:29:22
+ * @LastEditTime: 2023-06-14 20:37:31
  * @Description: 
  * 
  * Copyright (c) 2023 by Night-stars-1, All Rights Reserved. 
@@ -22,7 +22,7 @@
 
 **Q**： 游戏有没有分辨率要求
 
-**A**： 有的，PC端要求`1920*1080`，模拟器要求`1080*720`
+**A**： 有的，PC端要求`1920*1080`，模拟器要求`1280*720`
 
 ---
 
