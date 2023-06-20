@@ -2,7 +2,7 @@
  * @Author: Night-stars-1 nujj1042633805@gmail.com
  * @Date: 2023-05-24 11:46:14
  * @LastEditors: Night-stars-1 nujj1042633805@gmail.com
- * @LastEditTime: 2023-06-01 14:27:29
+ * @LastEditTime: 2023-06-14 20:37:31
  * @Description: 
  * 
  * Copyright (c) 2023 by Night-stars-1, All Rights Reserved. 
@@ -15,7 +15,7 @@
 <p><strong>A</strong>： 更改配置文件的对应项，详细见<RouterLink to="/config/">配置详细</RouterLink></p>
 <hr>
 <p><strong>Q</strong>： 游戏有没有分辨率要求</p>
-<p><strong>A</strong>： 有的，PC端要求<code v-pre>1920*1080</code>，模拟器要求<code v-pre>1080*720</code></p>
+<p><strong>A</strong>： 有的，PC端要求<code v-pre>1920*1080</code>，模拟器要求<code v-pre>1280*720</code></p>
 <hr>
 <p><strong>Q</strong>： ModuleNotFoundError: No module named 'xxxx'</p>
 <p><strong>A</strong>： 在项目主目录运行<code v-pre>pip install -r requirements.txt</code></p>

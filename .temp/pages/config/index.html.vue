@@ -102,6 +102,26 @@
 <td style="text-align:center">字符串</td>
 <td style="text-align:right">语言</td>
 </tr>
+<tr>
+<td>move_excursion</td>
+<td style="text-align:center">数值</td>
+<td style="text-align:right">移动偏移</td>
+</tr>
+<tr>
+<td>move_division_excursion</td>
+<td style="text-align:center">数值</td>
+<td style="text-align:right">移动偏移倍数</td>
+</tr>
+<tr>
+<td>sprint</td>
+<td style="text-align:center">布尔值</td>
+<td style="text-align:right">是否疾跑</td>
+</tr>
+<tr>
+<td>join_time</td>
+<td style="text-align:center"><a href="#%E8%BF%9B%E5%9B%BE%E6%9C%80%E5%A4%A7%E6%97%B6%E9%97%B4">查看详细</a></td>
+<td style="text-align:right">进图最大时间</td>
+</tr>
 </tbody>
 </table>
 <h2 id="完整配置参考" tabindex="-1"><a class="header-anchor" href="#完整配置参考" aria-hidden="true">#</a> 完整配置参考</h2>
@@ -128,9 +148,39 @@
     <span class="token punctuation">]</span><span class="token punctuation">,</span>
     <span class="token property">"map_version"</span><span class="token operator">:</span> <span class="token string">"0"</span><span class="token punctuation">,</span>
     <span class="token property">"proxies"</span><span class="token operator">:</span> <span class="token string">"socks5://your_socks5_proxy"</span><span class="token punctuation">,</span>
-    <span class="token property">"language"</span><span class="token operator">:</span> <span class="token string">"zh_CN"</span>
+    <span class="token property">"language"</span><span class="token operator">:</span> <span class="token string">"zh_CN"</span><span class="token punctuation">,</span>
+    <span class="token property">"move_excursion"</span><span class="token operator">:</span> <span class="token number">0</span>
 <span class="token punctuation">}</span>
-</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p><strong>PS: 参考配置请不要直接复制使用，程序会自动生成，这只是给一个模板</strong></p>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p><strong>PS: 参考配置请不要直接复制使用，程序会自动生成，这只是给一个模板</strong></p>
+<h2 id="进图最大时间" tabindex="-1"><a class="header-anchor" href="#进图最大时间" aria-hidden="true">#</a> 进图最大时间</h2>
+<table>
+<thead>
+<tr>
+<th>Key</th>
+<th style="text-align:center">值类型</th>
+<th style="text-align:right">说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>pc</td>
+<td style="text-align:center">数值</td>
+<td style="text-align:right">PC进图最大时间</td>
+</tr>
+<tr>
+<td>mnq</td>
+<td style="text-align:center">数值</td>
+<td style="text-align:right">模拟器进图最大时间</td>
+</tr>
+</tbody>
+</table>
+<div class="language-json line-numbers-mode" data-ext="json"><pre v-pre class="language-json"><code><span class="token punctuation">{</span>
+    <span class="token property">"join_time"</span><span class="token operator">:</span> <span class="token punctuation">{</span>
+        <span class="token property">"pc"</span><span class="token operator">:</span> <span class="token number">8</span><span class="token punctuation">,</span>
+        <span class="token property">"mnq"</span><span class="token operator">:</span> <span class="token number">15</span>
+    <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p><strong>PS: 参考配置请不要直接复制使用，程序会自动生成，这只是给一个模板</strong></p>
 </div></template>
 
 

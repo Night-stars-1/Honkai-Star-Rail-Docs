@@ -2,7 +2,7 @@
  * @Author: Night-stars-1 nujj1042633805@gmail.com
  * @Date: 2023-05-23 22:27:33
  * @LastEditors: Night-stars-1 nujj1042633805@gmail.com
- * @LastEditTime: 2023-06-10 23:11:56
+ * @LastEditTime: 2023-06-20 18:50:23
  * @Description: 
  * 
  * Copyright (c) 2023 by Night-stars-1, All Rights Reserved. 
@@ -31,6 +31,10 @@
 | proxies | 字符串 | 网络代理 |
 | language | 字符串 | 语言 |
 | move_excursion | 数值 | 移动偏移 |
+| move_division_excursion | 数值 | 移动偏移倍数 |
+| sprint | 布尔值 | 是否疾跑 |
+| join_time | [查看详细](#进图最大时间) | 进图最大时间 |
+
 
 ## 完整配置参考
 ```json
@@ -62,3 +66,17 @@
 }
 ```
 **PS: 参考配置请不要直接复制使用，程序会自动生成，这只是给一个模板**
+
+## 进图最大时间
+| Key        | 值类型           | 说明  |
+| ------------- |:-------------:| -----:|
+| pc | 数值 | PC进图最大时间 |
+| mnq | 数值 | 模拟器进图最大时间 |
+```json
+{
+    "join_time": {
+        "pc": 8,
+        "mnq": 15
+    }
+}
+```
