@@ -34,6 +34,7 @@
 | move_division_excursion | 数值 | 移动偏移倍数 |
 | sprint | 布尔值 | 是否疾跑 |
 | join_time | [查看详细](#进图最大时间) | 进图最大时间 |
+| deficiency | 布尔值 | 是否捡漏 |
 
 
 ## 完整配置参考
