@@ -2,7 +2,7 @@
  * @Author: Night-stars-1 nujj1042633805@gmail.com
  * @Date: 2023-05-23 15:45:31
  * @LastEditors: Night-stars-1 nujj1042633805@gmail.com
- * @LastEditTime: 2023-06-10 20:45:37
+ * @LastEditTime: 2023-06-25 20:37:25
  * @Description: 
  * 
  * Copyright (c) 2023 by Night-stars-1, All Rights Reserved. 
@@ -30,6 +30,9 @@
 <img src="https://img06.mifile.cn/v1/MI_542ED8B1722DC/126cb397275a9756877965f2b16313e1.png" alt="foo"></li>
 </ul>
 <h2 id="启动星穹铁道小助手" tabindex="-1"><a class="header-anchor" href="#启动星穹铁道小助手" aria-hidden="true">#</a> 启动星穹铁道小助手</h2>
+<div class="custom-container warning"><p class="custom-container-title">注意</p>
+<p>如果你是Win10用户，建议先下载这个<a href="https://www.microsoft.com/store/productId/9N0DX20HK701" target="_blank" rel="noopener noreferrer">Windows Terminal<ExternalLinkIcon/></a></p>
+</div>
 <ul>
 <li>下载最新版<a href="https://github.com/Starry-Wind/StarRailAssistant/releases/latest" target="_blank" rel="noopener noreferrer">星穹铁道小助手<ExternalLinkIcon/></a></li>
 <li>解压文件，并进入文件夹</li>

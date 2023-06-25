@@ -2,7 +2,7 @@
  * @Author: Night-stars-1 nujj1042633805@gmail.com
  * @Date: 2023-05-23 22:27:33
  * @LastEditors: Night-stars-1 nujj1042633805@gmail.com
- * @LastEditTime: 2023-06-10 23:11:56
+ * @LastEditTime: 2023-06-20 18:50:23
  * @Description: 
  * 
  * Copyright (c) 2023 by Night-stars-1, All Rights Reserved. 
@@ -122,6 +122,11 @@
 <td style="text-align:center"><a href="#%E8%BF%9B%E5%9B%BE%E6%9C%80%E5%A4%A7%E6%97%B6%E9%97%B4">查看详细</a></td>
 <td style="text-align:right">进图最大时间</td>
 </tr>
+<tr>
+<td>deficiency</td>
+<td style="text-align:center">布尔值</td>
+<td style="text-align:right">是否捡漏</td>
+</tr>
 </tbody>
 </table>
 <h2 id="完整配置参考" tabindex="-1"><a class="header-anchor" href="#完整配置参考" aria-hidden="true">#</a> 完整配置参考</h2>
@@ -180,7 +185,6 @@
         <span class="token property">"mnq"</span><span class="token operator">:</span> <span class="token number">15</span>
     <span class="token punctuation">}</span>
 <span class="token punctuation">}</span>
-</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p><strong>PS: 参考配置请不要直接复制使用，程序会自动生成，这只是给一个模板</strong></p>
-</div></template>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></div></template>
 
 
