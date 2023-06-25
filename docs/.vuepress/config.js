@@ -2,7 +2,7 @@
  * @Author: Night-stars-1 nujj1042633805@gmail.com
  * @Date: 2023-05-23 22:27:40
  * @LastEditors: Night-stars-1 nujj1042633805@gmail.com
- * @LastEditTime: 2023-06-04 15:59:00
+ * @LastEditTime: 2023-06-25 16:36:12
  * @Description: 
  * 
  * Copyright (c) 2023 by Night-stars-1, All Rights Reserved. 
@@ -36,6 +36,7 @@ export default {
                 text: "反馈",
                 children: [
                     { text: "QQ群", link: "https://qm.qq.com/cgi-bin/qm/qr?k=xdCO46fHlVcY7D2L7elXzqcxL3nyTGnW&jump_from=webapi&authKey=uWZooQ2szv+nG/re7luCKn8LW1KibSb0vvi0FycA45Mglm5AGM1GP2iJ+SiWmDwg" },
+                    { text: "QQ频道", link: "https://pd.qq.com/s/e910fud13" },
                     { text: "Telegram Group", link: "https://t.me/+yeQEhnuT9O41NDM1" }
                 ]
             },
