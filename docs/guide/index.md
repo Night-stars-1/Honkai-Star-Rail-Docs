@@ -2,7 +2,7 @@
  * @Author: Night-stars-1 nujj1042633805@gmail.com
  * @Date: 2023-05-23 15:45:31
  * @LastEditors: Night-stars-1 nujj1042633805@gmail.com
- * @LastEditTime: 2023-06-25 20:37:25
+ * @LastEditTime: 2023-06-26 15:05:14
  * @Description: 
  * 
  * Copyright (c) 2023 by Night-stars-1, All Rights Reserved. 
@@ -46,7 +46,7 @@ This software is open source, free of charge and for learning and exchange purpo
  * 输入`pip config set global.index-url https://mirrors.aliyun.com/pypi/simple`设置国内pip源
  * 输入`pip install -r requirements.txt`安装依赖
  * 输入`Python Honkai_Star_Rail.py`运行星穹铁道小助手
- * **ps: `输入Python Honkai_Star_Rail.py -h`可以看见命令行快速启动信息**
+**ps: `输入Python Honkai_Star_Rail.py -h`可以看见命令行快速启动信息**
 
 ## 快速启动
  * 下载地址[快速启动](https://github.com/Starry-Wind/StarRailAssistant/releases/tag/快速启动)
