@@ -9,6 +9,7 @@
  */
 import { defaultTheme } from 'vuepress'
 import { docsearchPlugin } from '@vuepress/plugin-docsearch'
+import { copyCodePlugin } from 'vuepress-plugin-copy-code2'
 export default {
     title: '崩坏：星穹铁道小助手文档',
     description: '崩坏：星穹铁道小助手文档',
@@ -18,6 +19,9 @@ export default {
         }
     },
     plugins: [
+        copyCodePlugin({
+            // 插件选项
+        }),
         docsearchPlugin({
             apiKey: "284273618b0777c30fdbae3c1c0907a5",
             indexName: "sra-stysqy",

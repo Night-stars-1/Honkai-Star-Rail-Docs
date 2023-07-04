@@ -2,7 +2,7 @@
  * @Author: Night-stars-1 nujj1042633805@gmail.com
  * @Date: 2023-05-23 22:27:33
  * @LastEditors: Night-stars-1 nujj1042633805@gmail.com
- * @LastEditTime: 2023-06-20 18:50:23
+ * @LastEditTime: 2023-07-04 21:52:41
  * @Description: 
  * 
  * Copyright (c) 2023 by Night-stars-1, All Rights Reserved. 
@@ -38,7 +38,7 @@
 
 
 ## 完整配置参考
-```json
+```json5
 {
     "real_width": 0,
     "auto_battle_persistence": 0,

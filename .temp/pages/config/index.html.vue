@@ -2,7 +2,7 @@
  * @Author: Night-stars-1 nujj1042633805@gmail.com
  * @Date: 2023-05-23 22:27:33
  * @LastEditors: Night-stars-1 nujj1042633805@gmail.com
- * @LastEditTime: 2023-06-20 18:50:23
+ * @LastEditTime: 2023-07-04 21:52:41
  * @Description: 
  * 
  * Copyright (c) 2023 by Night-stars-1, All Rights Reserved. 
@@ -130,7 +130,7 @@
 </tbody>
 </table>
 <h2 id="完整配置参考" tabindex="-1"><a class="header-anchor" href="#完整配置参考" aria-hidden="true">#</a> 完整配置参考</h2>
-<div class="language-json line-numbers-mode" data-ext="json"><pre v-pre class="language-json"><code><span class="token punctuation">{</span>
+<div class="language-json5 line-numbers-mode" data-ext="json5"><pre v-pre class="language-json5"><code><span class="token punctuation">{</span>
     <span class="token property">"real_width"</span><span class="token operator">:</span> <span class="token number">0</span><span class="token punctuation">,</span>
     <span class="token property">"auto_battle_persistence"</span><span class="token operator">:</span> <span class="token number">0</span><span class="token punctuation">,</span>
     <span class="token property">"real_height"</span><span class="token operator">:</span> <span class="token number">0</span><span class="token punctuation">,</span>

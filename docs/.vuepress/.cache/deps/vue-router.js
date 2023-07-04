@@ -2657,7 +2657,7 @@ export {
 
 vue-router/dist/vue-router.mjs:
   (*!
-    * vue-router v4.2.1
+    * vue-router v4.2.2
     * (c) 2023 Eduardo San Martin Morote
     * @license MIT
     *)

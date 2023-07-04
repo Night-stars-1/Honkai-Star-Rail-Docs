@@ -37,9 +37,6 @@
 <hr>
 <p><strong>Q</strong>： PermissionError: [Errno 13] Permission denied: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx'</p>
 <p><strong>A</strong>： 你安装了微软商店的Python，请严格安装<RouterLink to="/guide/">教程</RouterLink>的步骤安装</p>
-<hr>
-<p><strong>Q</strong>： 口令:5668</p>
-<p><strong>A</strong>： 口令:5668</p>
 </div></template>
 
 

@@ -5,8 +5,9 @@
   "author": "Night-stars-1 <nujj1042633805@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@vuepress/plugin-docsearch": "^2.0.0-beta.62",
-    "vuepress": "^2.0.0-beta.62"
+    "@vuepress/plugin-docsearch": "^2.0.0-beta.64",
+    "vuepress": "^2.0.0-beta.64",
+    "vuepress-plugin-copy-code2": "^2.0.0-beta.230"
   },
   "scripts": {
     "docs:dev": "vuepress dev docs --temp .temp",

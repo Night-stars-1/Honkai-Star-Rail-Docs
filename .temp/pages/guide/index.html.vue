@@ -2,7 +2,7 @@
  * @Author: Night-stars-1 nujj1042633805@gmail.com
  * @Date: 2023-05-23 15:45:31
  * @LastEditors: Night-stars-1 nujj1042633805@gmail.com
- * @LastEditTime: 2023-06-25 20:37:25
+ * @LastEditTime: 2023-06-26 15:06:22
  * @Description: 
  * 
  * Copyright (c) 2023 by Night-stars-1, All Rights Reserved. 
@@ -40,7 +40,8 @@
 <li>右键开始菜单，选择<code v-pre>终端管理员</code>，输入<code v-pre>cd 刚刚复制的路径</code></li>
 <li>输入<code v-pre>pip config set global.index-url https://mirrors.aliyun.com/pypi/simple</code>设置国内pip源</li>
 <li>输入<code v-pre>pip install -r requirements.txt</code>安装依赖</li>
-<li>输入<code v-pre>Python Honkai_Star_Rail.py</code>运行星穹铁道小助手</li>
+<li>输入<code v-pre>Python Honkai_Star_Rail.py</code>运行星穹铁道小助手
+<strong>ps: 输入<code v-pre>Python Honkai_Star_Rail.py -h</code>可以看见命令行快速启动信息</strong></li>
 </ul>
 <h2 id="快速启动" tabindex="-1"><a class="header-anchor" href="#快速启动" aria-hidden="true">#</a> 快速启动</h2>
 <ul>
