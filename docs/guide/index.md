@@ -2,7 +2,7 @@
  * @Author: Night-stars-1 nujj1042633805@gmail.com
  * @Date: 2023-05-23 15:45:31
  * @LastEditors: Night-stars-1 nujj1042633805@gmail.com
- * @LastEditTime: 2023-06-26 15:06:22
+ * @LastEditTime: 2023-07-30 23:57:14
  * @Description: 
  * 
  * Copyright (c) 2023 by Night-stars-1, All Rights Reserved. 
@@ -39,7 +39,7 @@ This software is open source, free of charge and for learning and exchange purpo
 ::: warning 注意
 如果你是Win10用户，建议先下载这个[Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701)
 :::
- * 下载最新版[星穹铁道小助手](https://github.com/Starry-Wind/StarRailAssistant/releases/latest)
+ * 下载最新版[Auto_Star_Rail](https://github.com/Night-stars-1/Auto_Star_Rail/releases/latest)
  * 解压文件，并进入文件夹
  * 复制文件夹路径
  * 右键开始菜单，选择`终端管理员`，输入`cd 刚刚复制的路径`

@@ -11,8 +11,8 @@ import { defaultTheme } from 'vuepress'
 import { docsearchPlugin } from '@vuepress/plugin-docsearch'
 import { copyCodePlugin } from 'vuepress-plugin-copy-code2'
 export default {
-    title: '崩坏：星穹铁道小助手文档',
-    description: '崩坏：星穹铁道小助手文档',
+    title: 'Auto_Star_Rail文档',
+    description: 'Auto_Star_Rail文档',
     locales: {
         '/': {
           lang: 'zh-CN'
